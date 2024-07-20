@@ -6,10 +6,12 @@ Welcome to this repository showcasing a collection of assignments in the field o
 
 The repository is organized into folders based on topics. Below is an overview of the structure:
 
-- **/Assignments**: Contains all the assignments grouped by topic.
-  - **/DataStructures**: Assignments related to data structures.
-  - **/Algorithms**: Assignments focused on algorithms.
-  - **/Databases**: Projects and assignments related to database systems.
-  - **/SoftwareEngineering**: Software engineering assignments and projects.
-  - **/OperatingSystems**: Assignments related to operating systems.
-  - **/WebDevelopment**: Web development assignments and projects.
+- **/Assignments**: Contains all the assignments grouped by semester.
+  - **/Semester1**: Assignments from the first semester.
+  - **/Semester2**: Assignments from the second semester.
+  - **/Semester3**: Assignments from the third semester.
+  - **/Semester4**: Assignments from the fourth semester.
+  - **/Semester5**: Assignments from the fifth semester.
+  - **/Semester6**: Assignments from the sixth semester.
+  - **/Semester7**: Assignments from the seventh semester.
+  - **/Semester8**: Assignments from the eighth semester.

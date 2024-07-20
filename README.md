@@ -4,7 +4,7 @@ Welcome to this repository showcasing a collection of assignments in the field o
 
 ## Repository Structure
 
-The repository is organized into folders based on topics. Below is an overview of the structure:
+The repository is organized into folders based on semesters. Below is an overview of the structure:
 
 - **/Assignments**: Contains all the assignments grouped by semester.
   - **/Semester1**: Assignments from the first semester.

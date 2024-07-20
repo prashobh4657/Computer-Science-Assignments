@@ -1,4 +1,4 @@
-# Computer Science Assignments Repository
+# Computer Science Assignments
 
 Welcome to this repository showcasing a collection of assignments in the field of Computer Science. Each assignment covers a unique aspect of computer science, offering something new to learn across various topics and technologies.
 
